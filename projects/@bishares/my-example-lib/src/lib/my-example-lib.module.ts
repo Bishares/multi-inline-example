@@ -11,7 +11,7 @@ import { MatSelectModule } from '@angular/material/select';
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { TreeModule } from 'angular-tree-component';
-import { RouterComponent } from './router.component';
+import { MyExampleComponent } from './my-example.component';
 import { MatNativeDateModule } from '@angular/material/core';
 import { MatCheckboxModule } from '@angular/material/checkbox';
 import { ClipboardModule } from '@angular/cdk/clipboard';
@@ -39,7 +39,7 @@ export function appInit() {
     ClipboardModule,
   ],
   declarations: [
-    ExampleComponent
+    MyExampleComponent
   ],
   providers: [
   ],
