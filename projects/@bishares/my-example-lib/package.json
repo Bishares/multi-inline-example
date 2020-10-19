@@ -1,0 +1,50 @@
+{
+  "name": "@bishares/my-example-lib",
+  "private": true,
+  "dependencies": {
+    "tslib": "1.11.1"
+  },
+  "peerDependencies": {
+    "@angular/animations": "9.1.11",
+    "@angular/cdk": "9.1.3",
+    "@angular/common": "9.1.11",
+    "@angular/compiler": "9.1.11",
+    "@angular/core": "9.1.11",
+    "@angular/forms": "9.1.11",
+    "@angular/material": "9.1.3",
+    "@angular/material-moment-adapter": "9.1.3",
+    "@angular/platform-browser": "9.1.11",
+    "@angular/platform-browser-dynamic": "9.1.11",
+    "@angular/router": "9.1.11",
+    "@angular/upgrade": "9.1.11",
+    "rxjs": "6.5.4",
+    "zone.js": "0.10.3",
+    "angular-tree-component": "8.5.6",
+    "bootstrap": "4.4.1",
+    "countup.js-angular2": "7.3.0",
+    "ember-cli-cors": "0.0.2",
+    "html2canvas": "1.0.0-rc.5",
+    "jquery": "3.4.1",
+    "locale-currency": "0.0.2",
+    "lodash": "4.17.15",
+    "material-design-icons": "3.0.1",
+    "moment-es6": "1.0.0",
+    "mq-scss": "2.1.5",
+    "net": "1.0.2",
+    "ngx-slider": "1.0.0",
+    "normalize.css": "8.0.1",
+    "popper.js": "1.16.1",
+    "reflect-metadata": "0.1.13",
+    "sockjs-client": "1.4.0",
+    "stompjs": "2.3.3",
+    "systemjs": "6.2.5",
+    "systemjs-plugin-babel": "0.0.25",
+    "utf8": "3.0.0",
+    "uuid": "7.0.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^3.2.0",
+    "@typescript-eslint/parser": "^3.2.0",
+    "eslint": "^7.2.0"
+  }
+}
