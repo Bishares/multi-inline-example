@@ -12,6 +12,6 @@ import { MyExampleLibModule } from '@bishares/my-example-lib';
     MyExampleLibModule,
   ],
   providers: [],
-  bootstrap: [RouterComponent]
+  bootstrap: []
 })
 export class AppModule { }
