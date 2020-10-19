@@ -6,7 +6,7 @@
     "build:level-1": "run-p build:1:my-example-lib",
     "build:1:my-example-lib": "ng build @bishares/my-example-lib && npm run trigger",
     "start": "ng serve --aot",
-    "trigger": "echo // > projects/@bishares/my-example-runner/src/trigger",
+    "trigger": "echo // > projects/@bishares/my-example-runner/src/trigger"
   },
   "dependencies": {
     "@angular/animations": "9.1.12",
