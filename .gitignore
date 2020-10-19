@@ -1,0 +1,11 @@
+/app/
+/coverage/
+/dist/
+/nbproject/private/
+/node/
+/node_modules/
+/typedoc/
+/sassdoc/
+/debug.log
+/package-lock.json
+/sassdoc-data.json
